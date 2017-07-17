@@ -1,0 +1,10 @@
+.demo-wrapper {
+	width: 600px;
+	margin: 80px auto;
+}
+span[data-hint] {
+	border-bottom: 1px dotted #aaa;
+}
+span[data-hint]:hover {
+	cursor: pointer;
+}
